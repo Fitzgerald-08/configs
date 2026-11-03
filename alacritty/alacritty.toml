@@ -1,0 +1,12 @@
+[font]
+size = 14.00
+normal = { family = "JetBrainsMono Nerd Font", style = "Bold" }
+[window]
+dimensions = { columns = 140, lines = 38 }
+decorations = "None"
+padding = { x = 5, y = 5 }
+startup_mode = "Maximized"
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/catppuccin_mocha.toml"
+]
